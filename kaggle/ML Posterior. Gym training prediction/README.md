@@ -1,0 +1,1 @@
+* Ссылка на соревнование: [ML Posterior. Gym training prediction](https://www.kaggle.com/c/ml-posterior-gym-training-prediction)
